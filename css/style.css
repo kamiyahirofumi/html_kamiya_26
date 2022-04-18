@@ -1,0 +1,224 @@
+/* ここから下に記載していく */
+.top{
+    display: flex;
+
+}   
+.top-content2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+.picture1{
+    position:relative;
+    text-align:center;
+    margin: 0 auto;
+}
+.picture1-word{
+    position: absolute;
+    color:white;
+    font-weight: bold;
+    font-size: px;
+}
+.picture1 img{
+    width: 100%;
+}
+h1{
+    color: #ffd61a;
+    font-size: 24;
+    text-align: center;
+    margin-top: 60px;
+}
+.doc-center{
+    font-size: 16px;
+    text-align: center;
+}
+.doc-center1{
+    margin-top: 30px;
+}
+.doc-center2{
+    margin-top: 60px;
+}
+.doc-center3{
+    margin-top: 40px;
+}
+.doc-center4{
+    margin-top: 40px;
+}
+.doc-center5{
+    margin-top: 40px;
+}
+.doc-center6{
+    margin-top: 30px;
+}
+.picture2{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-size: 24;
+    text-align: center;
+    margin-top: 60px;
+}
+.picture3{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.picture3-word{
+    text-align: center;
+    margin-top: 120px;
+    padding-left: 50px;
+    width: 480px;
+    }
+
+.picture3-word1{
+    font-size: 18px;
+}
+
+.picture3-word2{
+    font-size: 16px;   
+    margin-top: 40px;
+}
+.picture4{
+    display: flex;
+    justify-content: center;
+}
+.picture4-word{
+    text-align: center;
+    margin-top: 120px;
+    padding-right: 50px;
+    width: 480px;
+}
+.picture4-word1{
+    font-size: 18px;
+}
+.picture4-word2{
+    font-size: 16px;   
+    margin-top: 40px;
+}
+.picture5{
+    display: flex;
+    justify-content: center;
+}
+.picture5-word{
+    text-align: center;
+    margin-top: 120px;
+    padding-left: 50px;
+    width: 480px;
+}
+.picture5-word1{
+    font-size: 18px;
+}
+.picture5-word2{
+    font-size: 16px;   
+    margin-top: 40px;
+}
+.picture6{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-right: 15px;
+    margin-left:  15px;
+}
+.picture6-content{
+    width: 300px;
+}
+.picture6-word1{
+    font-size: 16px;
+    margin-top: 30px;
+}
+.picture6-word2{
+    font-size: 16px;   
+    margin-top: 24px;
+}
+h3{
+    width:300px;
+    height:60px;
+    font-size: 18px;
+    background-color: #ffd61a;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contact{
+    margin-top:70px;
+    box-sizing: border-box;
+}
+.contact-table{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.contact-item{
+    text-align: left;
+    width:30%;
+}
+.contact-body{
+    width:70%;
+}
+.form-text{
+    width:100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    max-width: 400px;
+}
+.form-select{
+    width: 500px;
+    height: 40px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.contact-douki{
+    display: block;
+}
+.contact-douki + .contact-douki{
+    margin-top: 10px;
+}
+.douki-txt{
+    margin-left: 5px;
+}
+.form-textarea {
+    width: 100%;
+    padding: 10px;
+    height: 200px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+.contact-submit {
+    margin-top: 30px;
+    width: 250px;
+    background-color: #ffd61a;
+    color:white;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+    font-size: 16px;
+    padding: 15px;
+    border: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+  }
+  footer{
+    background-color: #707070;
+    color: white;
+    text-align: center;   
+    margin-top: 140px;
+    padding-top: 30ox;
+    padding-bottom: 30px;
+    vertical-align: middle;
+}
